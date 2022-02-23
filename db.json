@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "username": "Mubeen Qazi",
+      "email": "mubeen@yopmail.com",
+      "password": "qwerty",
+      "dob": "2021-04-21T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "username": "Daniel",
+      "email": "daniel@yopmail.com",
+      "password": "qwerty",
+      "dob": "2022-02-20T19:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
